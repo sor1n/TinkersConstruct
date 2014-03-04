@@ -14,3 +14,11 @@ Thumbs.db
 /.gradle
 /build/
 /run/
+.classpath
+.gitmodules
+.project
+/capes
+/gradle
+gradlew.*
+/.classpath
+/.settings
